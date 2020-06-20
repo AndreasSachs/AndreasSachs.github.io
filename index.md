@@ -4,3 +4,5 @@ Johnny Depp's portrayal of Jack Sparrow created enough of hysteria for it to pro
 * strange
 * suspicious
 * funny
+As Grace Hopper said:
+> I’ve always been more interested
