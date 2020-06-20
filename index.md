@@ -6,3 +6,4 @@ Johnny Depp's portrayal of Jack Sparrow created enough of hysteria for it to pro
 * funny
 As Grace Hopper said:
 > I’ve always been more interested
+![Captain Jack Sparrow](/images/Jack_Sparrow_In_Pirates_of_the_Caribbean-_At_World's_End.jpg)
